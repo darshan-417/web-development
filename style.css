@@ -1,0 +1,19 @@
+img{
+    height: 200px;
+    width: 200px;
+    display: inline;
+}
+.heading{
+    color: aqua;
+    font-size: larger;
+}
+#Darsh{
+    color: blue;
+    font-style: italic;
+}
+#bio{
+
+    color: blueviolet;
+    font-size: 50px;
+
+}
